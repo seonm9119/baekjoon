@@ -3,7 +3,6 @@
 
 int main(){
 
-
     int f[41]={0, 1};
 
     for(int n=2; n<41; n++) f[n] = f[n-2] + f[n-1];
