@@ -34,8 +34,6 @@ int main(){
         scanf("%d", &w);
 
 
-        //////////////////////Logic
-
         queue<int> q;
         int totalTime[n+1]={0,};
         for(int i=1; i<n+1; i++){
