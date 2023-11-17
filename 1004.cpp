@@ -10,7 +10,6 @@ int isPointInsideCircle(int x, int y, int a, int b, int r) {
 }
 
 
-
 int main(){
 
     int t;
